@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>SHAHRIAR ISLAM</h1>
 
-<!--
-**the-shahriar/the-shahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Shahriar Islam from Bangladesh, and I do website on Design and Development. I really enjoy learning languages and frameworks like React, VueJS and Laravel as well as work in WordPress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h2>Skills and Experience</h2>
+
+💻PHP, Laravel
+💻 HTML, CSS, JQuery, Bootstrap, JS
+
+<br>
