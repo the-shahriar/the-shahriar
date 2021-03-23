@@ -7,7 +7,7 @@ I'm Shahriar Islam from Bangladesh, and I do website on Design and Development. 
 
 <h2>Skills and Experience</h2>
 
-💻PHP, Laravel
+💻PHP, MySQL, WordPress
 💻 HTML, CSS, JQuery, Bootstrap, JS
 
 <br>
