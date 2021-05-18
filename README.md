@@ -7,7 +7,7 @@ I hope to be a successful Full-Stack Web Developer.<br>
 I consider myself equipped with Most of web development skills, but I know I Still need to learn a lot more.<br>
 I always like to learn and explore everything about Web Development technologies.<br><br>
 
-Fact: Every Expart is once a begineer.<br>
+Fact: Every Expart Is Once A Begineer.<br>
 
 
 
