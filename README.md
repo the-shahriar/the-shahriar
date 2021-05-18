@@ -1,10 +1,10 @@
-Hi There. I'm Shahriar Islam <br>
+<h2>Hi There. I'm Shahriar Islam</h2> <br><br>
 
-👨‍💻 About Me<br>
+👨‍💻 About Me<br>****
 🎓   I have studied Computer Science which provided me with some outstanding and technical skills.<br>
 🌱   I hope to be a successful Full-Stack Web Developer.<br>
 💼   I consider myself equipped with Most of web development skills, but I know I Still need to learn a lot more.<br>
-🤔   I always like to learn and explore everything about Web Development technologies.<br>
+🤔   I always like to learn and explore everything about Web Development technologies.<br><br>
 ⚡   Fact: The Expert in Anything was Once a Beginner.<br>
 📉 Roadmap
 💯   I have learned:   👉   HTML | CSS | JavaScript | Bootstrap | jQuery | SCSS | PHP | MySQL<br>
